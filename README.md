@@ -1,2 +1,2 @@
 # react-project
-Author - Manuroop Singh Gill
+Author - Manuroop Singh
